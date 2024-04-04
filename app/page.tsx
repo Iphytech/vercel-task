@@ -85,7 +85,7 @@ export default function Home() {
           </Link>
         </li>
         <li className="text-sky-800 font-bold py-4 hover:text-sky-600 transition">
-          <Link href="/tasks/">
+          <Link href="/tasks/improve">
             10. How could we improve or alter this familiarisation exercise?
           </Link>
         </li>
