@@ -47,7 +47,7 @@ export default function Home() {
         <li className="text-sky-800 font-bold py-4 hover:text-sky-600 transition">
           <Link href="/tasks/build-issues">
             5. Imagine a customer writes in requesting help with a build issue
-            on a framework or technology that you've not seen before. How would
+            on a framework or technology that you&apos;ve not seen before. How would
             you begin troubleshooting this and what questions would you ask the
             customer to understand the situation better?
           </Link>
@@ -55,16 +55,16 @@ export default function Home() {
         <li className="text-sky-800 font-bold py-4 hover:text-sky-600 transition">
           <Link href="/tasks/reply">
             6. The customer from question 5 replies to your response with the
-            below: “I’m so frustrated. I’ve been trying to make this work for
-            hours and I just can’t figure it out. It must be a platform issue so
+            below: “I&apos;m so frustrated. I&apos;ve been trying to make this work for
+            hours and I just can&apos;t figure it out. It must be a platform issue so
             just fix it for me instead of asking me questions.” Please write a
             follow-up reply to the customer.
           </Link>
         </li>
         <li className="text-sky-800 font-bold py-4 hover:text-sky-600 transition">
           <Link href="/tasks/helpdesk">
-            7. A customer writes in to the Helpdesk asking "How do I do a
-            redirect from the /blog path to https://example.com?" Please write a
+            7. A customer writes in to the Helpdesk asking &apos;How do I do a
+            redirect from the /blog path to https://example.com?&apos; Please write a
             reply to the customer. Feel free to add any information about your
             decision making process after the reply.
           </Link>
@@ -86,7 +86,7 @@ export default function Home() {
         </li>
         <li className="text-sky-800 font-bold py-4 hover:text-sky-600 transition">
           <Link href="/tasks/improve">
-            10. How could we improve or alter this familiarisation exercise?
+            10. How could we improve or alter this familiarization exercise?
           </Link>
         </li>
       </ul>

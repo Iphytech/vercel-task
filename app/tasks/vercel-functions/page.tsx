@@ -22,8 +22,8 @@ export default function ChallengeSolved() {
             <p className="mb-4">
               Edge Functions are a good choice when running a JavaScript,
               TypeScript, or Web Assembly function that needs to be fast and
-              located close to the user's region. This function can be used to
-              fetch data or run processes like image optimization. Still, it's
+              located close to the user&apos;s region. This function can be used to
+              fetch data or run processes like image optimization. Still, it&apos;s
               not advisable to use it to fetch data from a database in a
               different region, as this would increase latency and negate the
               benefits of the Edge Function.
@@ -53,7 +53,7 @@ export default function ChallengeSolved() {
 
             <p className="">
               In summary, I would choose Edge Functions for optimizing
-              performance and executing code at Vercel's edge network,
+              performance and executing code at Vercel&apos;s edge network,
               Serverless Functions for backend logic, API endpoints, and dynamic
               content generation, and Edge Middleware for customizing HTTP
               request/response handling and implementing advanced routing and

@@ -14,10 +14,10 @@ export default function Improve() {
             </h2>
             <p className="mb-4">
               Alignment with Company Culture and Values: The familiarisation
-              exercise could be improved by aligning it with the company's
-              culture and values. This could involve incorporating the company's
+              exercise could be improved by aligning it with the company&apos;s
+              culture and values. This could involve incorporating the company&apos;s
               mission, vision, and values into the exercise to help prospective
-              candidates understand and embody the company's core beliefs and
+              candidates understand and embody the company&apos;s core beliefs and
               principles.
             </p>
           </div>
