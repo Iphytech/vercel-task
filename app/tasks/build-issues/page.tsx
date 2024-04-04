@@ -24,7 +24,7 @@ export default function BuildIssues() {
             <ol className="list-decimal ml-6">
               <li>
                 <p>
-                  First,it's important for me to read and understand the issue
+                  Firstly,it's important for me to read and understand the issue
                   raised as this would help with asking the right questions,and
                   then check for the information the customer provided in the
                   escalation to understand what additional information to
