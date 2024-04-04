@@ -18,7 +18,7 @@ export default function ChallengeSolved() {
               Owing to a surge in suspicious requests attributed to a possible
               breach, a hotfix was rolled out to block all originating IP
               addresses and require manually allowlisting IP originating IP
-              addresses before access to the user's wallet. Due to the quick
+              addresses before access to the user&apos;s wallet. Due to the quick
               nature of this, there was a delay between when communication was
               sent to affected customers and when they received this comms. This
               led to a surge in dropped transactions and a barrage of support

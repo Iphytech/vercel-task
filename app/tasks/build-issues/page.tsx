@@ -11,20 +11,20 @@ export default function BuildIssues() {
           <div className="max-w-2xl mx-auto">
             <h2 className="text-xl font-bold mt-8">
               Imagine a customer writes in requesting help with a build issue on
-              a framework or technology that you've not seen before. How would
+              a framework or technology that you&apos;ve not seen before. How would
               you begin troubleshooting this and what questions would you ask
               the customer to understand the situation better?
             </h2>
             <p className="">
               If a customer writes in requesting help with a build issue on a
-              framework or technology that I'm not familiar with, I would start
+              framework or technology that I&apos;m not familiar with, I would start
               by taking the following troubleshooting steps:
             </p>
 
             <ol className="list-decimal ml-6">
               <li>
                 <p>
-                  Firstly,it's important for me to read and understand the issue
+                  Firstly, it&apos;s important for me to read and understand the issue
                   raised as this would help with asking the right questions,and
                   then check for the information the customer provided in the
                   escalation to understand what additional information to

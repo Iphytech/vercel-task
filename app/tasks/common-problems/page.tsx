@@ -42,12 +42,12 @@ export default function CommonProblems() {
                 <strong>Troubleshoot common issues:</strong> I would try to
                 identify and troubleshoot common deployment issues based on the
                 information provided. For example, I would check if the project
-                is correctly configured for Vercel, ensure the project's
+                is correctly configured for Vercel, ensure the project&apos;s
                 dependencies are up-to-date and compatible with the target
-                environment, verify that the project's build script is working
+                environment, verify that the project&apos;s build script is working
                 correctly and not producing any errors, and check for any
-                changes in the project's code or configuration that might be
-                causing conflicts with Vercel's deployment process.
+                changes in the project&apos;s code or configuration that might be
+                causing conflicts with Vercel&apos;s deployment process.
               </li>
               <li>
                 <strong>Provide step-by-step guidance:</strong> If the issue can
@@ -86,7 +86,7 @@ export default function CommonProblems() {
                 <strong>Community forums and Q&A:</strong> I would encourage
                 customers to participate in community forums or Q&A platforms
                 specifically for Vercel users. This would foster knowledge
-                sharing, allow customers to learn from each other's experiences,
+                sharing, allow customers to learn from each other&apos;s experiences,
                 and potentially crowdsource solutions to common problems.
               </li>
               <li>
@@ -101,7 +101,7 @@ export default function CommonProblems() {
                 analyze support requests, deployment logs, and customer feedback
                 to identify recurring issues or pain points. I would also share
                 this information with the product to improve the deployment
-                process, update documentation, or enhance the platform's
+                process, update documentation, or enhance the platform&apos;s
                 functionality to address these problems proactively.
               </li>
             </ol>

@@ -10,22 +10,22 @@ export default function Reply() {
           </Link>
           <h2 className="text-xl font-bold mt-8">
             The customer from question 5 replies to your response with the
-            below: “I’m so frustrated. I’ve been trying to make this work for
-            hours and I just can’t figure it out. It must be a platform issue so
+            below: “I&apos;m so frustrated. I&apos;ve been trying to make this work for
+            hours and I just can&apos;t figure it out. It must be a platform issue so
             just fix it for me instead of asking me questions.” Please write a
             follow-up reply to the customer.
           </h2>
           <br />
 
-          <p className="mb-4">*Note: Before responding, it's advisable to check the system to ensure that the Vercel build and deployment processes are running optimally..**</p>
+          <p className="mb-4">*Note: Before responding, it&apos;s advisable to check the system to ensure that the Vercel build and deployment processes are running optimally..**</p>
           <div className="max-w-2xl mx-auto">
             <p className="mb-4">Hello customerNname,</p>
 
             <p className="mb-4">Thanks for your email.</p>
 
             <p className="mb-4">
-              I'm sorry to hear that you're feeling frustrated with this issue,
-              and I understand that you've been working on it for a while now. I
+              I&apos;m sorry to hear that you&apos;re feeling frustrated with this issue,
+              and I understand that you&apos;ve been working on it for a while now. I
               have just did some quick sanity checks and can confirm our build
               and deploy system is up and running optimally as I speak. You can
               also confirm this by checking the{" "}
@@ -39,25 +39,25 @@ export default function Reply() {
             </p>
 
             <p className="mb-4">
-              However, it's important to note that my questions are not intended
+              However, it&apos;s important to note that my questions are not intended
               to burden you but rather to gather all the necessary information
               to help troubleshoot and identify the root cause of the issue
-              you're facing.
+              you&apos;re facing.
             </p>
 
             <p className="mb-4">
               In some cases, the root cause of a problem may be complex and
-              require detailed investigation. By asking these questions, I'm
+              require detailed investigation. By asking these questions, I&apos;m
               able to identify the specific details of your situation and
               provide efficient and effective support.
             </p>
 
             <p className="mb-4">
-              Additionally, I'm here to help and want to ensure that I resolve
+              Additionally, I&apos;m here to help and want to ensure that I resolve
               this issue as soon as possible. If you prefer, we can set up a
               call or you can share with me a minimal
               reproducible example to help me better understand the issue
-              you're facing.
+              you&apos;re facing.
             </p>
 
             <p className="mb-4">

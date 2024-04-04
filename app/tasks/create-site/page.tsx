@@ -22,7 +22,7 @@ export default function CreateSite() {
 
             <p className="mb-4">
               If you would like your project not to be indexed by search
-              engines, you can add the following code to your site's robots.txt
+              engines, you can add the following code to your site&apos;s robots.txt
               file:
             </p>
             <pre className="bg-gray-100 rounded-lg p-2 mb-4">
@@ -39,7 +39,7 @@ export default function CreateSite() {
 
             <p className="mb-4">
               By adding the code in the robots.txt file, it tells search engines
-              not to index any pages on your site. However, it's important to
+              not to index any pages on your site. However, it&apos;s important to
               note that while adding the code can help prevent search engines
               from indexing your site, it is still not 100% guaranteed. Some
               search engines may still index your site even if you have this
@@ -49,10 +49,10 @@ export default function CreateSite() {
             <p className="mb-4">
               Additionally, If you would like to further improve this, I
               recommend looking into other methods like adding meta tags to your
-              site's HTML code. See below for an example:
+              site&apos;s HTML code. See below for an example:
             </p>
             <pre className="bg-gray-100 rounded-lg p-2 mb-4">
-              <code>&lt;meta name="robots" content="noindex"&gt;</code>
+              <code>&lt;meta name=&quot;robots&quot; content=&quot;noindex&quot;&gt;</code>
             </pre>
 
             <p className="mb-4">
@@ -64,11 +64,11 @@ export default function CreateSite() {
                 In the file, add the following line:{" "}
                 <code>User-agent: * Disallow: /</code>
               </li>
-              <li>Add the "no index" meta tag:</li>
+              <li>Add the &quot;no index&quot; meta tag:</li>
               <li>
                 In the &lt;head&gt; section of your HTML pages, add the
                 following meta tag:{" "}
-                <code>&lt;meta name="robots" content="noindex"&gt;</code>
+                <code>&lt;meta name=&quot;robots&quot; content=&quot;noindex&quot;&gt;</code>
               </li>
             </ol>
 

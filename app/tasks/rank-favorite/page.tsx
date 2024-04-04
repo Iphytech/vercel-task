@@ -14,7 +14,7 @@ export default function RankFavorite() {
         <h3 className="font-semibold mb-2">Most Favorite:</h3>
         <ol className="list-decimal ml-6">
           <li>
-            Dig through logs to troubleshoot a customer's broken project:{" "}
+            Dig through logs to troubleshoot a customer&apos;s broken project:{" "}
             <span className="">
               I find the process of investigating and resolving technical issues
               to be intellectually stimulating and rewarding. Troubleshooting
@@ -35,7 +35,7 @@ export default function RankFavorite() {
             feedback from customers:{" "}
             <span className="">
               I appreciate the opportunity to collaborate with other teams and
-              directly contribute to the product's evolution based on customer
+              directly contribute to the product&apos;s evolution based on customer
               insights. This allows me to play a role in enhancing the overall
               user experience.
             </span>
@@ -82,7 +82,7 @@ export default function RankFavorite() {
             Respond to 50+ support requests via email dail:{" "}
             <span className="">
               While responding to support requests is essential, this could
-              indicate a process flow in the company’s workflow that needs
+              indicate a process flow in the company&apos;s workflow that needs
               urgent attention. Handling a large volume of emails daily can be
               overwhelming and may lead to decreased effectiveness in addressing
               each inquiry thoroughly. Maintaining quality and attention to
